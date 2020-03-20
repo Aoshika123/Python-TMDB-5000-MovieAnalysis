@@ -1,0 +1,2 @@
+# Python-TMDB-5000-MovieAnalysis
+基于对TMDB-5000-MovieAnalysis数据集进行的一些数据分析以及建立了一个简单模型来对电影评分进行预测
